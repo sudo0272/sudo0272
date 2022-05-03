@@ -1,6 +1,7 @@
 # Hi, there!
-Just take a look
-I'm sudo0272 from 🇰🇷South Korea!
+Just take a look! \
+I'm 홍세정(Sejung Hong) and sudo0272 from 🇰🇷South Korea!\
+I've studied computer since I was 5th grade so I'm 9th year developer Wow!
 
 ## I'm Good at
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
